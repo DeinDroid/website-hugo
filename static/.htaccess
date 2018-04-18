@@ -1,0 +1,12 @@
+<IfModule mod_headers.c>
+Header set Strict-Transport-Security "max-age=31536000; includeSubDomains" env=HTTPS
+Header always append X-Frame-Options "DENY"
+Header always append X-Content-Type-Options "nosniff"
+Header set Content-Security-Policy "default-src https: 'unsafe-inline'; object-src 'none'; script-src 'self'"
+Header set X-XSS-Protection "1; mode=block"
+</IfModule>
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTPS} Off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+</IfModule>

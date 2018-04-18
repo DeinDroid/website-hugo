@@ -1,0 +1,29 @@
+baseURL = "/"
+languageCode = "de"
+title = "DeinDroid"
+theme = "kube"
+description = "Befreie dein Smartphone! Wir helfen dir ein sichereres und schnelleres Android zu erhalten, das deine Privatsphäre respektiert."
+Paginate = 4
+[Params]
+  RSSLink = "/index.xml"
+  author = "DeinDroid"
+  #github = "" # add your github profile name
+  #twitter = "" # add your twitter profile
+  email = "info@deindroid.de"
+
+[[menu.main]]
+    name = "Anleitungen"
+    weight = -100
+    url = "/docs/"
+[[menu.main]]
+    name = "Über uns"
+    weight = -100
+    url = "/wir/"
+[[menu.main]]
+    name = "FAQ"
+    weight = -100
+    url = "/faq/"
+[[menu.main]]
+    name = "Kontakt"
+    weight = -100
+    url = "/kontakt/"
