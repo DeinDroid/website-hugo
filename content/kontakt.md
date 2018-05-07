@@ -3,4 +3,4 @@ title = "Kontakt"
 description = "Wie ihr uns erreichen könnt."
 +++
 
-Ihr könnt uns einfach ein Mail schreiben. Unsere Mailadresse beginnt mit info@ und endet auf den Namen unserer Webseite (deindroid.de ;-)).
+Du hast Fragen oder Probleme? Ihr könnt uns einfach eine Mail schreiben. Unsere Mailadresse lautet info [ät] deindroid.de.
