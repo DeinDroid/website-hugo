@@ -12,17 +12,13 @@ Paginate = 4
   email = "info@deindroid.de"
 
 [[menu.main]]
-    name = "Anleitungen"
+    name = "Informationen"
     weight = -100
     url = "/docs/"
 [[menu.main]]
     name = "Über uns"
     weight = -100
     url = "/wir/"
-[[menu.main]]
-    name = "FAQ"
-    weight = -100
-    url = "/faq/"
 [[menu.main]]
     name = "Kontakt"
     weight = -100
