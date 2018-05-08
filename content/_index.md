@@ -18,12 +18,12 @@ Für technisch nicht versierte Menschen gibt es scheinbar nur die Wahl auf ein S
 
 Wenn euer Interesse geweckt ist, meldet euch bitte bis zum 25.05.2018 verbindlich unter anmeldung@deindroid.de an und schreibt uns dabei, welches Smartphone-Modell ihr besitzt (Hinweis: iPhones sind leider nicht kompatibel und können daher nicht befreit werden!). Ihr erhaltet dann eine E-Mail von uns, in der wir euch Hinweise geben, was ihr mitbringen und wie ihr euer Telefon für den praktischen Teil vorbereiten könnt (Keine Sorge, von euch wird kein Hexenwerk erwartet!). Egal aus welchen Gründen ihr ein freies Android wollt - bei uns sind alle Interessierten willkommen!
 
-Weitere Infos zu uns, LineageOS und dem Workshop findet ihr auf unserer Webseite https://deindroid.de/, unter hilfe@deindroid.de beantworten wir gerne eure individuellen Fragen.
+Weitere Infos zu uns, LineageOS und dem Workshop findet ihr auf dieser Webseite, unter info@deindroid.de beantworten wir gerne eure individuellen Fragen.
 Wir freuen uns darauf, gemeinsam mit euch eure Smartphones schneller, nachhaltiger, freier und datensicherer zu machen!
 
 **Workshop**
-09.06.2018, 10 bis ca. 16 Uhr, danach gemeinsames Ausklingen bei Getränken
-Nahe U Stadtmitte (genaue Räumlichkeiten werden nach Anmeldung bekannt gegeben) 
+09.06.2018, 10 bis ca. 16 Uhr, danach gemeinsames Ausklingen bei Getränken<br/>
+Nahe U Stadtmitte (genaue Räumlichkeiten werden nach Anmeldung bekannt gegeben)<br/>
 Verbindliche Anmeldung bis 25.05. unter anmeldung@deindroid.de
 
 PS: Solltet Ihr - aus welchen Gründen auch immer - in die Verlegenheit kommen, euch ein neues/gebrauchtes Smartphone kaufen zu wollen, sprecht uns bitte unbedingt vorher an, damit wir Euch sagen können, worauf Ihr achten solltet.
