@@ -21,10 +21,10 @@ Wenn euer Interesse geweckt ist, meldet euch bitte bis zum 25.05.2018 verbindlic
 Weitere Infos zu uns, LineageOS und dem Workshop findet ihr auf dieser Webseite, unter info@deindroid.de beantworten wir gerne eure individuellen Fragen.
 Wir freuen uns darauf, gemeinsam mit euch eure Smartphones schneller, nachhaltiger, freier und datensicherer zu machen!
 
-**Workshop**<br/>
-09.06.2018, 10 bis ca. 16 Uhr, danach gemeinsames Ausklingen bei Getränken<br/>
-Nahe U Stadtmitte (genaue Räumlichkeiten werden nach Anmeldung bekannt gegeben)<br/>
-Verbindliche Anmeldung bis 25.05.2018 unter anmeldung@deindroid.de
+> **Workshop**<br/>
+> 09.06.2018, 10 bis ca. 16 Uhr, danach gemeinsames Ausklingen bei Getränken<br/>
+> Nahe U Stadtmitte (genaue Räumlichkeiten werden nach Anmeldung bekannt gegeben)<br/>
+> Verbindliche Anmeldung bis 25.05.2018 unter anmeldung@deindroid.de
 
 PS: Solltet Ihr - aus welchen Gründen auch immer - in die Verlegenheit kommen, euch ein neues/gebrauchtes Smartphone kaufen zu wollen, sprecht uns bitte unbedingt vorher an, damit wir Euch sagen können, worauf Ihr achten solltet.
 
