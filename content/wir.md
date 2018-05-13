@@ -3,6 +3,6 @@ title = "Über uns"
 description = "Wir sind einfach nur kleine süße Kätzchen!"
 +++
 
-Wir benutzen sehr gerne unser Smartphone. Dabei wollen wir jedoch selbst entscheiden können, was installiert ist und wer etwas über uns wissen darf. Deshalb haben wir uns ein Alternatives Android installiert.
+Hinter DeinDroid steckt weder ein Verein noch eine Organisation, sondern eine kleine Gruppe von Freund_innen. Wir interessieren uns für Freie Software, Datenschutz und alles, was sonst noch Bürger_innenrechte im Digitalen sichert und ausbaut (denn dort werden sie häufig unterlaufen oder sogar unverhohlen ausgehebelt, wie etwa Cambridge Analytica oder der Staatstrojaner zeigen).
 
-Wir wollen unsere Erfahrungen und unser Wissen mit Euch teilen, damit auch ihr mehr Spaß mit Eurem Smartphone habt...
+Die Idee, bei einem Workshop unser Wissen und unsere Erfahrungen zu teilen, entstand nach einigen Gläsern Bier. Er ist zunächst als ein Experiment geplant, aber – wer weiß – vielleicht entwickelt sich daraus ja mehr?
