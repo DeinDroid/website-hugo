@@ -18,3 +18,7 @@ Um es kurz zu machen: über die [LineageOS-Seite](https://wiki.lineageos.org/dev
 Leider lässt es sich nicht beeinflussen, ob ein Gerät unterstützt wird oder nicht. Denn da LineageOS ein Gemeinschafts-Projekt ist, hängt alles davon ab, ob es ein&ast;e Entwickler&ast;in gibt, die das gleiche Modell hat und willens ist, für eine Unterstützung zu sorgen.
 
 Eine längere Erklärung findest sich [hier](https://wiki.lineageos.org/device_requests.html) (Englisch).
+
+## Worauf beim Gerätekauf achten
+
+Gerade weil die Unterstützung des Geräts von freiwilligen Entwickler&ast;innen abhängt, empfiehlt es sich, bei einem Neu- (oder besser: Gebraucht-)Kauf darauf zu achten, ein möglichst weit verbreitetes "Flagschiff"-Modell eines bekannten Herstellers zu kaufen. Dies erhöht schlicht die Wahrscheinlichkeit, dass ein&ast;e fleißige&ast;r Entwickler&ast;in daselbe Modell gekauft hat und deshalb LineageOS für dieses Gerät pflegen kann.
