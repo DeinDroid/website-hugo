@@ -22,3 +22,5 @@ Eine längere Erklärung findest sich [hier](https://wiki.lineageos.org/device_r
 ## Worauf beim Gerätekauf achten
 
 Gerade weil die Unterstützung des Geräts von freiwilligen Entwickler&ast;innen abhängt, empfiehlt es sich, bei einem Neu- (oder besser: Gebraucht-)Kauf darauf zu achten, ein möglichst weit verbreitetes "Flagschiff"-Modell eines bekannten Herstellers zu kaufen. Dies erhöht schlicht die Wahrscheinlichkeit, dass ein&ast;e fleißige&ast;r Entwickler&ast;in daselbe Modell gekauft hat und deshalb LineageOS für dieses Gerät pflegen kann.
+
+Vor allem sollte es aber natürlich bereits in der [Liste der unterstützen Geräte](https://wiki.lineageos.org/devices/) zu finden sein.
