@@ -35,15 +35,17 @@ Am wichtigsten ist aber vermutlich euer Adressbuch! Schaut in eure Kontakte-App 
 
 ### Tools
 
-Nützliche Backup-Programme im Überblick:
+Bekannte Backup-Programme im Überblick:
 
 * Für Menschen mit Windows Betriebssystem: [MyPhoneExplorer](https://www.heise.de/download/product/myphoneexplorer-37321) 
-* Die folgenden Tools sind sehr umfangreich und unübersichtlich (=haben viele Funktionen), sichern aber oft alle Einstellungen von Apps (in jedem Fall müsst ihr die Sicherungen trotzdem anschließend auf euren Rechner ziehen!):
+* Die folgenden Tools sind sehr umfangreich und unübersichtlich, sichern aber oft alle Einstellungen von Apps. Voraussetzung ist aber oft ein Admin-Zugriff auf dem Handy (root), den man meist noch nicht hat...:
   * [Helium - App Sync und Backup](https://play.google.com/store/apps/details?id=com.koushikdutta.backup&hl=de)
   * [Titanium Backup] (https://play.google.com/store/apps/details?id=com.keramidas.TitaniumBackup&hl=de)
   * Nur vom F-Droid Store: [oandbackup](https://f-droid.org/packages/dk.jens.backup/) (Open Source Anwendung)
 
 Es gibt im Google Play Store auch noch viele viele andere Backup-Programme. Wir haben diese aber nicht ausprobiert und können keine Empfehlungen aussprechen. Bitte beachtet auch, dass die oben genannten bewährte und bekannte Anwendungen sind. Das heißt nicht unbedingt, dass wir mit ihnen besonders gute Erfahrungen gemacht haben oder ähnliches.
+
+Das ist eine unangenehme Gesamtsituation, die wir leider auch nicht ändern können.
 
 ### Google (ja, genau)
 
