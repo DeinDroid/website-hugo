@@ -7,6 +7,8 @@ bref="Befreie dein Smartphone! Wir helfen dir ein sichereres und schnelleres And
 toc = false
 +++
 
+## Zweiter Workshop für Oktober 2018 geplant, nähere Infos folgen hier
+
 Wer einmal ein Smartphone besessen hat, kann sich den Komfort kaum mehr aus dem Alltag wegdenken: Mobiler Internetzugriff, einfache Navigationsmöglichkeiten, deutlich kostengünstigere Kommunikation. Neben der nervenaufreibend kurzen Akkulaufzeit und den horrenden Preisen beim Neukauf, bezahlen Nutzer_innen dafür allerdings einen hohen Preis:
     
 * es sind Dienste vorinstalliert, die viele Nutzer_innen gar nicht brauchen, die aber nicht gelöscht werden können und somit unnötig Systemressourcen kosten
