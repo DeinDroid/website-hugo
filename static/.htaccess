@@ -9,4 +9,5 @@ Header always append X-Frame-Options "DENY"
 Header always append X-Content-Type-Options "nosniff"
 Header set Content-Security-Policy "default-src https: 'unsafe-inline'; object-src 'none'; script-src 'self'"
 Header set X-XSS-Protection "1; mode=block"
+Header set Referrer-Policy "same-origin"
 </IfModule>
